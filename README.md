@@ -27,9 +27,10 @@ To install the necessary dependencies, run the following command:
   pip install -r requirements.txt
 ```
 
-To run the program, run the Gesture_Recognition.ipynb in your Jupyter Notebook
+## Usage
++ To run the program, open the file Gesture_Recognition.ipynb using a Jupyter Notebook. Then, follow the instructions provided in the notebook to run the code.
 
-Then, place your hand within the ROI frame of the camera. The recognized gesture will be displayed on the screen.
++ Place your hand within the frame of the camera. The recognized gesture will be displayed on the screen.
 
 ## Algorithm
 The algorithm used in this program consists of the following steps:

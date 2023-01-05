@@ -1,4 +1,4 @@
-# Gesture-Recognition
+# Simple Gesture Recognition with OpenCV
 This project aims to recognize hand gestures using Python and OpenCV, without the use of any datasets. Hand gesture recognition is a field of study within computer vision that involves detecting and interpreting human hand gestures using visual input from a camera or other sensors. There are various applications of hand gesture recognition, including human-computer interaction, sign language interpretation, and virtual reality.
 
 The approach used in this project is based on the idea of counting defects in the contour of the hand. A defect is defined as a point where the angle between the fingers is less than 90 degrees. This approach is often used for recognizing gestures with a small number of fingers extended, as the defects correspond to the points where the fingers meet the palm.

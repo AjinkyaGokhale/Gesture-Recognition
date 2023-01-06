@@ -20,6 +20,7 @@ In addition to these gestures, the program can also recognize the following:
 ## Requirements
 + Python 3
 + OpenCV
++ Numpy
 
 ## Installation
 To install the necessary dependencies, run the following command:
@@ -59,4 +60,4 @@ There are several ways in which the program could be improved in the future:
 ## Conclusion
 This project has demonstrated the feasibility of using Python and OpenCV to recognize hand gestures without the use of any datasets. While the current program has some limitations and could be improved in various ways, it represents a solid foundation for further development and experimentation.
 
-*This Readme was written by ChatGPD.*
+*This Readme was written by ChatGPT.*

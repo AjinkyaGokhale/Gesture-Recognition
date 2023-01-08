@@ -60,4 +60,10 @@ There are several ways in which the program could be improved in the future:
 ## Conclusion
 This project has demonstrated the feasibility of using Python and OpenCV to recognize hand gestures without the use of any datasets. While the current program has some limitations and could be improved in various ways, it represents a solid foundation for further development and experimentation.
 
+## Team
+[![Ajinkya Gokhale](https://avatars.githubusercontent.com/u/121028346?v=3&s=144)](https://github.com/AjinkyaGokhale)  | [![Ajinkya Gokhale](https://avatars.githubusercontent.com/u/122198109?v=4&s=144)](https://github.com/Bakalsakshi)
+---|---
+[Ajinkya Gokhale](https://github.com/AjinkyaGokhale) |[Sakshi Bakal](https://github.com/Bakalsakshi)
+
+
 *This Readme was written by ChatGPT.*

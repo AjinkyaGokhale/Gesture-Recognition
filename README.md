@@ -33,6 +33,25 @@ To install the necessary dependencies, run the following command:
 
 + Place your hand within the frame of the camera. The recognized gesture will be displayed on the screen.
 
+## Working Samples 
+|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/0.png">|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/1.png">|
+|:---:|:---:|
+|Gesture for 0 |Gesture for 1|
+
+|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/2.png">|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/3.png">|
+|:---:|:---:|
+|Gesture for 2 |Gesture for 3|
+
+|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/4.png">|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/5.png">|
+|:---:|:---:|
+|Gesture for 4 |Gesture for 5|
+
+|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/6.png">|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/7.png">|
+|:---:|:---:|
+|Gesture for Best of Luck |Gesture for Okay|
+
+
+
 ## Algorithm
 The algorithm used in this program consists of the following steps:
 

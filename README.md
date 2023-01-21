@@ -17,6 +17,13 @@ In addition to these gestures, the program can also recognize the following:
 + "Best of luck": formed by crossing the index and middle fingers
 + "OK": if the ratio of the area of the contour of the hand to the area of the bounding box is greater than 27, the program will recognize the "OK" gesture instead. This is included as a way to differentiate between the three-finger gesture and other similar gestures, such as the "peace" or "victory" signs.
 
+Furthermore, Gesture_Recognition_with_Swipe.ipynb is able to detect 4 swipe gestures in addition with the above sign gestures.
+
++ Swipe Up
++ Swipe Down
++ Swipe Left
++ Swipe Right
+
 ## Requirements
 + Python 3
 + OpenCV
@@ -34,6 +41,7 @@ To install the necessary dependencies, run the following command:
 + Place your hand within the frame of the camera. The recognized gesture will be displayed on the screen.
 
 ## Working Samples 
+- ### Sign Gesture Recognition
 |<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/0.png">|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/1.png">|
 |:---:|:---:|
 |Gesture for 0 |Gesture for 1|
@@ -50,7 +58,10 @@ To install the necessary dependencies, run the following command:
 |:---:|:---:|
 |Gesture for Best of Luck |Gesture for Okay|
 
-
+- ### Swipe Gesture Recognition
+|<img width="600" height="322" src="https://github.com/AjinkyaGokhale/Gesture-Recognition/blob/main/Assets/gesture_swipe_demo.gif">|
+|:------:|
+|Swipe Gesture Demo|
 
 ## Algorithm
 The algorithm used in this program consists of the following steps:
